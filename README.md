@@ -1,9 +1,17 @@
 # Predictive-Business-Modelling-using-LSTM
+
+
+![Python](https://img.shields.io/badge/python-3.x-orange.svg)
+![MIT](https://img.shields.io/github/license/mashape/apistatus.svg)
+![Type](https://img.shields.io/badge/Deep-Learning-blue.svg) ![Model](https://img.shields.io/badge/Model-LSTM-red.svg)
+![Status](https://img.shields.io/badge/Status-Completed-neon.svg)
+
 To help companies to take better sales and marketing decisions implementing various decision making algorithms using Machine Learning and Visualizing the results using Data Science tools.
 
 This Project is predicting stocks for 32 companies with error less than 1% using LSTM Networks.
 I have not used pre-built models. I have trained LSTM NN models for All 32 companies listed below.
-The data considered here is of 2 years for all companies. From (1 Nov,2016) to (31 Oct,2018)
+The data considered here is of 2 years for all companies. 
+From (1 Nov,2016) to (31 Oct,2018)
 
 The list of Companies for which we are downloading the data is stored in csv file in data directory
 as "dow30.csv".

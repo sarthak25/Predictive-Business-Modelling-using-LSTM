@@ -9,8 +9,8 @@
 To help companies to take better sales and marketing decisions implementing various decision making algorithms using Machine Learning and Visualizing the results using Data Science tools.
 
 This Project is predicting stocks for 32 companies with error less than 1% using LSTM Networks.
-I have not used pre-built models. I have trained LSTM NN models for All 32 companies listed below.
-The data considered here is of 2 years for all companies. 
+ I have trained LSTM NN models for All 32 companies listed below.<br>
+The data considered here is of 2 years for all companies. <br>
 From (1 Nov,2016) to (31 Oct,2018)
 
 The list of Companies for which we are downloading the data is stored in csv file in data directory
